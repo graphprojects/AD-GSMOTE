@@ -27,7 +27,7 @@ With these criteria, three groups labeled the filtered meta-data separately.
 For those labeled data that we had disagreements on, we had discussions among groups for further cross-validation. 
 To conclude, we obtained $445$ drug sellers, $1,932$ drug users, $522$ drug discussants, and $25,046$ normal users. 
 <div align="center">
-<img src="https://github.com/MTYBilly3/AD-GSMOTE/blob/main/figs/data.png" width="1200", height="400" alt="Illustration of the Twitter-Drug graph dataset">
+<img src="https://github.com/graphprojects/AD-GSMOTE/blob/main/figs/data.png" width="1200", height="400" alt="Illustration of the Twitter-Drug graph dataset">
 <p>Figure 1: Illustration of the Twitter-Drug graph dataset.</p>
 </div>
 
