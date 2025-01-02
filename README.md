@@ -36,7 +36,7 @@ The dataset captures both class imbalance (few positive drug users) and topology
 
 More detail about the dataset collection and annotation can be found in [README](https://github.com/graphprojects/AD-GSMOTE/blob/main/data/README.md). 
 
-You can obtain our data from [link](https://drive.google.com/drive/folders/169mP2IBIpTkpB9uEZIVxsLGsEGoridNv?usp=sharing)
+You can obtain our data from [link](https://drive.google.com/drive/folders/169mP2IBIpTkpB9uEZIVxsLGsEGoridNv?usp=sharing).
 
 
 ### Twitter-Series Dataset.
