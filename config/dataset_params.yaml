@@ -1,0 +1,66 @@
+twitter_drug_0.4:
+  degree_list: [10, 10, 10]
+  tro: 1.2
+  backbone: GCN
+  im_class_num: 3
+  att_dim: 16
+  hidden_dim: 128
+
+twitter_drug_0.2:
+  degree_list: [10, 10, 10]
+  tro: 1.2
+  backbone: GCN
+  im_class_num: 3
+  att_dim: 16
+  hidden_dim: 256
+
+twitter_drug_0.1:
+  degree_list: [25, 15, 15]
+  tro:  1.4
+  backbone: GCN
+  im_class_num: 3
+  att_dim: 16
+  hidden_dim: 256
+
+twitter_drug_0.05:
+  degree_list: [10, 10, 10]
+  tro: 2 
+  backbone: GCN
+  im_class_num: 3
+  att_dim: 16
+  hidden_dim: 256
+
+yelpchi_0.4:
+  degree_list: [20, 20, 20]
+  tro: -2.0
+  backbone: SAGE
+  im_class_num: 1
+  att_dim: 16
+  hidden_dim: 512
+
+yelpchi_0.05:
+  degree_list: [20, 20, 20]
+  tro: -1.0
+  backbone: SAGE
+  im_class_num: 1
+  att_dim: 16
+  hidden_dim: 512
+
+amazon_0.4:
+  degree_list: [10, 10, 10]
+  tro: 0.01 
+  backbone: SAGE
+  im_class_num: 1 
+  att_dim: 8 
+  hidden_dim: 256
+
+amazon_0.05:
+  degree_list: [10, 10, 10]
+  tro: 1.2
+  backbone: SAGE
+  im_class_num: 1 
+  att_dim: 16
+  hidden_dim: 256
+
+
+
